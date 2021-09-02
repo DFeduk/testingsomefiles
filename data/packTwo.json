@@ -1,0 +1,66 @@
+[
+  {
+    "key": "Q",
+    "src": "../js/packTwo/bass/bass1.wav"
+  },
+  {
+    "key": "W",
+    "src": "../js/packTwo/bass/bass2.wav"
+  },
+  {
+    "key": "E",
+    "src": "../js/packTwo/bass/bass3.wav"
+  },
+  {
+    "key": "R",
+    "src": "../js/packTwo/bass/bass4.wav"
+  },
+  {
+    "key": "A",
+    "src": "../js/packTwo/drums/drum1.wav"
+  },
+  {
+    "key": "S",
+    "src": "../js/packTwo/drums/drum2.wav"
+  },
+  {
+    "key": "D",
+    "src": "../js/packTwo/drums/drum3.wav"
+  },
+  {
+    "key": "F",
+    "src": "../js/packTwo/drums/drum4.wav"
+  },
+  {
+    "key": "Z",
+    "src": "../js/packTwo/topLoop/topLoop.wav"
+  },
+  {
+    "key": "X",
+    "src": "../js/packTwo/topLoop/topLoop2.wav"
+  },
+  {
+    "key": "C",
+    "src": "../js/packTwo/topLoop/topLoop3.wav"
+  },
+  {
+    "key": "V",
+    "src": "../js/packTwo/topLoop/topLoop4.wav"
+  },
+  {
+    "key": "N",
+    "src": "../js/packTwo/vocals/vocal.wav"
+  },
+  {
+    "key": "M",
+    "src": "../js/packTwo/vocals/vocal2.wav"
+  },
+  {
+    "key": "J",
+    "src": "../js/packTwo/vocals/synth.wav"
+  },
+  {
+    "key": "U",
+    "src": "../js/packTwo/vocals/synth2.wav"
+  }
+]

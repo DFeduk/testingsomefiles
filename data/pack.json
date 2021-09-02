@@ -1,0 +1,66 @@
+[
+  {
+    "key": "Q",
+    "src": "../js/pack/bass/ELIMINATE_MDSTP_808_crunchberry_E.wav"
+  },
+  {
+    "key": "W",
+    "src": "../js/pack/bass/ELIMINATE_MDSTP_bass_loop_slightlylessaggressive_150_B.wav"
+  },
+  {
+    "key": "E",
+    "src": "../js/pack/bass/ELIMINATE_MDSTP_bass_loop_spicydance2_150_G.wav"
+  },
+  {
+    "key": "R",
+    "src": "../js/pack/bass/ELIMINATE_MDSTP_bass_loop_thisisasnaredrumat150bpm_150_X.wav"
+  },
+  {
+    "key": "A",
+    "src": "../js/pack/drums/ELIMINATE_MDSTP_drum_build_resistance_150.wav"
+  },
+  {
+    "key": "S",
+    "src": "../js/pack/drums/ELIMINATE_MDSTP_drum_loop_angrysuslord_150.wav"
+  },
+  {
+    "key": "D",
+    "src": "../js/pack/drums/ELIMINATE_MDSTP_drum_loop_hybrid_150.wav"
+  },
+  {
+    "key": "F",
+    "src": "../js/pack/drums/ELIMINATE_MDSTP_hat_loop_drinksomewater_150.wav"
+  },
+  {
+    "key": "Z",
+    "src": "../js/pack/loop/ELIMINATE_MDSTP_synth_loop_tetriscrash2_150_D.wav"
+  },
+  {
+    "key": "X",
+    "src": "../js/pack/loop/ELIMINATE_MDSTP_synth_loop_thommelody_150_X.wav"
+  },
+  {
+    "key": "C",
+    "src": "../js/pack/loop/ELIMINATE_MDSTP_synth_loop_wonkydonut2_150_X.wav"
+  },
+  {
+    "key": "V",
+    "src": "../js/pack/loop/ELIMINATE_MDSTP_synth_loop_zerorythemonlyvibes_150_X.wav"
+  },
+  {
+    "key": "N",
+    "src": "../js/pack/vocals/ELIMINATE_MDSTP_vox_chant_woo.wav"
+  },
+  {
+    "key": "M",
+    "src": "../js/pack/vocals/ELIMINATE_MDSTP_vox_phrase_alittledisappointed.wav"
+  },
+  {
+    "key": "J",
+    "src": "../js/pack/vocals/ELIMINATE_MDSTP_vox_phrase_bittoospicy.wav"
+  },
+  {
+    "key": "U",
+    "src": "../js/pack/vocals/ELIMINATE_MDSTP_vox_phrase_threateningaura.wav"
+  }
+]
